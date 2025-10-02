@@ -1,0 +1,15 @@
+/Users/jamie/Documents/GitHub/My-Country/Stribe/obj/Debug/net9.0/Stribe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamie/Documents/GitHub/My-Country/Stribe/obj/Debug/net9.0/Stribe.AssemblyInfoInputs.cache
+/Users/jamie/Documents/GitHub/My-Country/Stribe/obj/Debug/net9.0/Stribe.AssemblyInfo.cs
+/Users/jamie/Documents/GitHub/My-Country/Stribe/obj/Debug/net9.0/Stribe.csproj.CoreCompileInputs.cache
+/Users/jamie/Documents/GitHub/My-Country/Stribe/obj/Debug/net9.0/Stribe.sourcelink.json
+/Users/jamie/Documents/GitHub/My-Country/Stribe/bin/Debug/net9.0/Stribe
+/Users/jamie/Documents/GitHub/My-Country/Stribe/bin/Debug/net9.0/Stribe.deps.json
+/Users/jamie/Documents/GitHub/My-Country/Stribe/bin/Debug/net9.0/Stribe.runtimeconfig.json
+/Users/jamie/Documents/GitHub/My-Country/Stribe/bin/Debug/net9.0/Stribe.dll
+/Users/jamie/Documents/GitHub/My-Country/Stribe/bin/Debug/net9.0/Stribe.pdb
+/Users/jamie/Documents/GitHub/My-Country/Stribe/obj/Debug/net9.0/Stribe.dll
+/Users/jamie/Documents/GitHub/My-Country/Stribe/obj/Debug/net9.0/refint/Stribe.dll
+/Users/jamie/Documents/GitHub/My-Country/Stribe/obj/Debug/net9.0/Stribe.pdb
+/Users/jamie/Documents/GitHub/My-Country/Stribe/obj/Debug/net9.0/Stribe.genruntimeconfig.cache
+/Users/jamie/Documents/GitHub/My-Country/Stribe/obj/Debug/net9.0/ref/Stribe.dll

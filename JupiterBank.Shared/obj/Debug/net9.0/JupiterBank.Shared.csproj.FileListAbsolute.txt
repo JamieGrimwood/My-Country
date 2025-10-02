@@ -1,0 +1,13 @@
+/Users/jamie/Documents/GitHub/My-Country/JupiterBank.Shared/bin/Debug/net9.0/JupiterBank.Shared.deps.json
+/Users/jamie/Documents/GitHub/My-Country/JupiterBank.Shared/bin/Debug/net9.0/JupiterBank.Shared.dll
+/Users/jamie/Documents/GitHub/My-Country/JupiterBank.Shared/bin/Debug/net9.0/JupiterBank.Shared.pdb
+/Users/jamie/Documents/GitHub/My-Country/JupiterBank.Shared/obj/Debug/net9.0/JupiterBank.Shared.csproj.AssemblyReference.cache
+/Users/jamie/Documents/GitHub/My-Country/JupiterBank.Shared/obj/Debug/net9.0/JupiterBank.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamie/Documents/GitHub/My-Country/JupiterBank.Shared/obj/Debug/net9.0/JupiterBank.Shared.AssemblyInfoInputs.cache
+/Users/jamie/Documents/GitHub/My-Country/JupiterBank.Shared/obj/Debug/net9.0/JupiterBank.Shared.AssemblyInfo.cs
+/Users/jamie/Documents/GitHub/My-Country/JupiterBank.Shared/obj/Debug/net9.0/JupiterBank.Shared.csproj.CoreCompileInputs.cache
+/Users/jamie/Documents/GitHub/My-Country/JupiterBank.Shared/obj/Debug/net9.0/JupiterBank.Shared.sourcelink.json
+/Users/jamie/Documents/GitHub/My-Country/JupiterBank.Shared/obj/Debug/net9.0/JupiterBank.Shared.dll
+/Users/jamie/Documents/GitHub/My-Country/JupiterBank.Shared/obj/Debug/net9.0/refint/JupiterBank.Shared.dll
+/Users/jamie/Documents/GitHub/My-Country/JupiterBank.Shared/obj/Debug/net9.0/JupiterBank.Shared.pdb
+/Users/jamie/Documents/GitHub/My-Country/JupiterBank.Shared/obj/Debug/net9.0/ref/JupiterBank.Shared.dll
